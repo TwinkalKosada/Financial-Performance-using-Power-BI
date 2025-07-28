@@ -53,7 +53,7 @@ This project goes beyond simple visualization — it aims to **solve real-world 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard..png)
 
 
 ---
