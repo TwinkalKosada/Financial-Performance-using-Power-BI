@@ -46,7 +46,7 @@ This project goes beyond simple visualization — it aims to **solve real-world 
 ## 📂 Dataset Source
 
 - Dataset: `financials.xlsx`
-- Source: Publicly available **Financials Sample Dataset** from [Kaggle](https://www.kaggle.com/datasets)
+- - Source: Publicly available **Financial Sample Dataset** from [Kaggle](https://www.kaggle.com/datasets/nibeditasahu/financial-sample-data)
 - Purpose: Educational / Portfolio Project
 
 ---
