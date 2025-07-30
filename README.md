@@ -66,14 +66,6 @@ This project goes beyond simple visualization — it aims to **solve real-world 
 
 ---
 
-## 📈 Next Steps
-
-I plan to extend this project by:
-- Applying forecasting techniques to project future revenue
-- Connecting with a real-world retail or marketing dataset
-- Creating a version with SQL + Power BI integration
-
----
 
 ## 🧠 What I Learned
 
